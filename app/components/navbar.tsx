@@ -15,7 +15,7 @@ export const Navbar = () => {
              </ul>
              <div className=" mt-2 px-6 space-x-5 font-medium ">
              <button className="  hover:text-white"> Sign In</button>
-             <button className=" hover:text-white" >Sign Up</button>
+             <button className=" hover:text-white" >SIGN UP</button>
              </div>
           </nav>
         </div>
